@@ -1,2 +1,2 @@
 # complex-mapping
-To visualize how complex functions work for my Calculus-3 (2023 year) fellows
+The main function is shared by [ZosoLedZep](https://math.stackexchange.com/users/508510/zosoledzep)
